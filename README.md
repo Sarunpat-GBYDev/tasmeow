@@ -1,7 +1,6 @@
 # Tasmeow (ทาสเหมียว) 🐾
 
-> **แอปตั้งเป้าหมายชีวิต + เลี้ยงแมวเสมือน** — Portfolio project เพื่อสมัครงานตำแหน่ง Mobile Developer
-
+> **แอปตั้งเป้าหมายชีวิต + เลี้ยงแมวเสมือน** — Portfolio project 
 ![React Native](https://img.shields.io/badge/React_Native-0.86-61DAFB?logo=react)
 ![Expo](https://img.shields.io/badge/Expo-SDK_54-000020?logo=expo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript)
